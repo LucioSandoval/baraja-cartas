@@ -1,0 +1,14 @@
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\bin\Debug\net7.0\baraja-cartas.exe
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\bin\Debug\net7.0\baraja-cartas.deps.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\bin\Debug\net7.0\baraja-cartas.runtimeconfig.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\bin\Debug\net7.0\baraja-cartas.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\bin\Debug\net7.0\baraja-cartas.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\obj\Debug\net7.0\baraja-cartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\obj\Debug\net7.0\baraja-cartas.AssemblyInfoInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\obj\Debug\net7.0\baraja-cartas.AssemblyInfo.cs
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\obj\Debug\net7.0\baraja-cartas.csproj.CoreCompileInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\obj\Debug\net7.0\baraja-cartas.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\obj\Debug\net7.0\refint\baraja-cartas.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\obj\Debug\net7.0\baraja-cartas.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\obj\Debug\net7.0\baraja-cartas.genruntimeconfig.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\baraja-cartas\obj\Debug\net7.0\ref\baraja-cartas.dll
